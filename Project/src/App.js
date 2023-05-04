@@ -32,7 +32,6 @@ function App() {
       // <div>
       //   {/* <h1>Welcome to my app</h1> */}
       //   <Status />
-      //comment
       // </div>
       <Router>
     <Routes>
