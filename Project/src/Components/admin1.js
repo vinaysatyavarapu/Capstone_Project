@@ -6,7 +6,7 @@ import {  Link } from 'react-router-dom';
 import './home.css';
 
 const Admin1 = () => {
-  // 
+  // hi
   const handleLogin = (e) => {
     e.preventDefault();
     // your login logic here
