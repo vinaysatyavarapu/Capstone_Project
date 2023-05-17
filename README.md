@@ -1,2 +1,2 @@
-# Capstone_Project_Car_Rental
+# Car_Rental_Project
 
